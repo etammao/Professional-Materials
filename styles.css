@@ -1,0 +1,27 @@
+.emailIcon{
+margin-left: 10px;
+margin-right: 10px;
+}
+
+.selfie{
+    position: absolute;
+    left: 1px;   
+}
+
+.githubbtn{
+    margin-top: 10px;
+}
+
+.fontStyle{
+    font-family: 'Metal Mania', cursive;
+}
+
+.frameStyle{
+    
+    margin-bottom: 10px;
+}
+
+.cardFrame{
+    
+    border-radius: 20px;
+}
